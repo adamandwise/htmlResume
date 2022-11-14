@@ -1,0 +1,25 @@
+
+body{
+   
+}
+#headerText{
+    margin-right:auto;
+    margin-left:auto;
+
+
+}
+
+#green{
+    color:green;
+
+}
+
+#gray{
+    color:gray;
+}
+
+img{
+    border-radius: 30%;
+    width:300px;
+    height:200px%;
+}
